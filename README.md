@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **jzhou819@student.ubc.ca**
 
-- 📄 Know about my experiences [https://aquamarine-barbabra-52.tiiny.site](https://aquamarine-barbabra-52.tiiny.site)
+- 📄 Know about my experiences [https://jessie-zhou.com](https://jessie-zhou.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
