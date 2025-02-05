@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Jessie</h1>
+<h1 align="center">Hi There 👋</h1>
 
-📫 How to reach me **jzhou819@student.ubc.ca**
+- 💻 @UBC
+- 📫 **jzhou819@student.ubc.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +30,6 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,postgres,ts,js,py,java,cpp,html,tailwind,git,vscode,azure,r,sklearn" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,ts,js,py,java,cpp,html,tailwind,git,vscode,azure,r,sklearn" />
   </a>
 </p>
