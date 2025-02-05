@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **jzhou819@student.ubc.ca**
 
-- 📄 Know about my experiences [https://jessie-zhou.com](https://jessie-zhou.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/zhou-jiaqi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/zhou-jiaqi/" height="30" width="40" /></a>
