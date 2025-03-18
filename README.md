@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi There 👋</h1>
 
-- 💻 @UBC
-- 📫 **jzhou819@student.ubc.ca**
+💻 @UBC <br>
+📫 **jzhou819@student.ubc.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
