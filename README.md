@@ -22,9 +22,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/zhou-jiaqi/" target="_blank">
     <img src="https://github.com/user-attachments/assets/35ac3824-30ee-44e6-8869-e0f623fd14bc" alt="LinkedIn" height="40" width="40" style="vertical-align: middle;"/>
   </a>
-  <a href="mailto:jessiezhou819@student.ubc.ca" target="_blank">
-    <img src="https://github.com/user-attachments/assets/96a92b69-2a03-4d43-8cdd-8f19f76c59fd" alt="Email" height="40" width="40" style="vertical-align: middle;"/>
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
